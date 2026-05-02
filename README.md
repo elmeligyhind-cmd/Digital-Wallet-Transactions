@@ -1,6 +1,6 @@
 # Financial Transactions: Consumer Insights Dashboard
 
-> *Note:* I created this project for educational purposes to practice my data analysis skills. I used a financial dataset to show my process for cleaning, transforming, and visualizing data.
+> *Note:* I created this project for educational purposes to practice my data analysis skills. I used a financial dataset to show my process for organizing, transforming, and visualizing data.
 
 ## 📊 Project Overview
 This project transforms raw transaction data into a professional, multi-sheet interactive dashboard. By analyzing the data, I was able to identify key revenue drivers, geographic spending patterns, and user behavior across different device types.
