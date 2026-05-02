@@ -17,7 +17,7 @@ This project transforms raw transaction data into a professional, multi-sheet in
 * *Revenue Trend:* Monthly revenue saw a steady decline from a peak of ~€2.19M down to €1.93M by September. **Recommendation:** Launch a "Q4 Cashback" campaign or year-end transaction bonuses to re-engage users and reverse the downward trend.
 * *Top Spending:* Streaming Services and Water Bills are the highest revenue categories. **Recommendation:** Introduce an "Auto-Pay" rewards program for recurring bills to ensure the bank remains the user's default payment method.
 * *Merchant Success:* Airbnb is the leading merchant by revenue, significantly outperforming other travel and retail vendors. **Recommendation:** Offer specialized travel insurance or "Buy Now, Pay Later" features specifically for high-value travel bookings like Airbnb.
-* *Product Popularity:* Basic Plans and Python Programming courses each account for 22% of total product revenue. **Recommendation:** Launch a "Subscription Manager" feature to help users track and pay for multiple plans, or offer "Student/Starter" credit tiers for those investing in professional certifications.
+* *Product Popularity:* Basic Plans (Streaming Services) and Python Programming courses each account for 22% of total product revenue. **Recommendation:** Launch a "Subscription Manager" feature to help users track and pay for multiple plans, or offer "Student/Starter" credit tiers for those investing in professional certifications.
 
 ## 📂 Files in this Repository
 * George.xlsx: The primary Excel file containing the data and dashboards.
